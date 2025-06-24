@@ -20,13 +20,13 @@ This is a simple Express + SQLite based Todo API with full CRUD support and test
 
 ## ✅ Screenshots (Thunder Client)
 
-| Method | Route | Screenshot |
-|--------|-------|------------|
-| POST | /todos/ | ![POST](screenshots/post.png) |
-| GET | /todos/ | ![GET](screenshots/get.png) |
-| GET | /todos/:id/ | ![GET by ID](screenshots/get-by-id.png) |
-| PUT | /todos/:id/ | ![PUT](screenshots/put.png) |
-| DELETE | /todos/:id/ | ![DELETE](screenshots/delete.png) |
+| Method | Route |
+|--------|-------|
+| POST | /todos/ |
+| GET | /todos/ |
+| GET | /todos/:id/ |
+| PUT | /todos/:id/ |
+| DELETE | /todos/:id/ |
 
 ---
 
